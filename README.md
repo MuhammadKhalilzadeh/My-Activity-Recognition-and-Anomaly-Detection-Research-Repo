@@ -60,4 +60,14 @@ Below is the list of IMU datasets for the Anomaly Detection task along with the 
 
 1. **Anomaly detection: A survey** - [[Link](https://conservancy.umn.edu/bitstream/handle/11299/215731/07-017.pdf?sequence=1)] - Year 2009
 
-   Brief Description: The paper "Anomaly Detection: A Survey" provides a comprehensive overview of anomaly detection techniques, categorizing them based on their approaches. It discusses the importance of anomaly detection across domains such as intrusion detection and fraud detection, highlighting challenges in defining normal behavior. The paper explores various techniques including classification, nearest-neighbor, and statistical methods.
+   Brief Description: The paper "Anomaly Detection: A Survey" provides a comprehensive overview of
+anomaly detection techniques, categorizing them based on their approaches. It discusses the importance of
+anomaly detection across domains such as intrusion detection and fraud detection, highlighting challenges
+in defining normal behavior. The paper explores various techniques including classification, nearest neighbor, clustering, statistical, information theory, and spectral methods. It addresses the difficulty of detecting dynamic and complex anomalies and emphasizes the role of contextual techniques. The survey aims to facilitate understanding by analyzing assumptions and cross-domain applications.
+
+1. **A Meta-Analysis of the Anomaly Detection Problem** - [[Link](https://arxiv.org/pdf/1503.01158)] - Year 2009
+
+   Brief Description: The paper "Anomaly Detection: A Survey" provides a comprehensive overview of
+anomaly detection techniques, categorizing them based on their approaches. It discusses the importance of
+anomaly detection across domains such as intrusion detection and fraud detection, highlighting challenges
+in defining normal behavior. The paper explores various techniques including classification, nearest neighbor, clustering, statistical, information theory, and spectral methods. It addresses the difficulty of detecting dynamic and complex anomalies and emphasizes the role of contextual techniques. The survey aims to facilitate understanding by analyzing assumptions and cross-domain applications.

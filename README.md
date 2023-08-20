@@ -17,7 +17,7 @@ Below is the list of IMU datasets for the Anomaly Detection task along with the 
 
    Brief Description: This repository contains outlier detection datasets and the results of basic kNN-based outlier detection methods on these datasets and aggregated results over the methods and datasets.
 
-2. **Outlier Detection Datasets (ODDS)** - [Link](#) - Year 2016
+2. **Outlier Detection Datasets (ODDS)** - [[Link](https://odds.cs.stonybrook.edu/#table1)](#) - Year 2016
 
    Brief Description: ODDS openly provides access to a large collection of outlier detection datasets with ground truth (if available). The focus is to provide datasets from different domains and present them under a single umbrella for the research community.
 

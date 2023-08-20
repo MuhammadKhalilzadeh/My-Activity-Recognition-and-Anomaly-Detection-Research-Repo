@@ -1,10 +1,6 @@
 # My-Activity-Recognition-and-Anomaly-Detection-Research-Repo
 
-# AD - Report
-
-Hello Dr. Ahuja,
-
-I appreciate the opportunity to explore the potential research alignment and get started on the tasks you mentioned. After reading lots of papers and publications, I figured out that I am interested in these two tasks:
+# Anomaly Detection
 
 - Activity Recognition
 - Anomaly Detection

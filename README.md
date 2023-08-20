@@ -2,9 +2,6 @@
 
 # Anomaly Detection
 
-- Activity Recognition
-- Anomaly Detection
-
 Below is the list of IMU datasets for the Anomaly Detection task along with the corresponding links to models, code, and the year they were published.
 
 ## Datasets
